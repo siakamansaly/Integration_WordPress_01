@@ -1,0 +1,6 @@
+@media(min-width: 1025px) {
+  .envato-background-fix {
+    -webkit-transform: translate3d(0,0,0);
+      transform: translate3d(0,0,0);
+  }
+}

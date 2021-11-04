@@ -1,0 +1,276 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Video Production",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Video Producer 1",
+            "screenshot": "screenshots\/home-video-producer-1.jpg",
+            "source": "templates\/home-video-producer-1-b919677e8fdb4c88ef72056ab6f3ffab.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 2",
+            "screenshot": "screenshots\/home-video-producer-2.jpg",
+            "source": "templates\/home-video-producer-2-e7bbbe4c07dcc4c3cdb1b7a36f6d5234.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 3",
+            "screenshot": "screenshots\/home-video-producer-3.jpg",
+            "source": "templates\/home-video-producer-3-e14cadb040fa9c8d8813715038ae9549.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 4",
+            "screenshot": "screenshots\/home-video-producer-4.jpg",
+            "source": "templates\/home-video-producer-4-bf35d6b2468e48b2cf830f961f6dae5b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 5",
+            "screenshot": "screenshots\/home-video-producer-5.jpg",
+            "source": "templates\/home-video-producer-5-769d7fcc7a7cbcf4560fbc31d583cb74.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 6",
+            "screenshot": "screenshots\/home-video-producer-6.jpg",
+            "source": "templates\/home-video-producer-6-4a1ec74b3ba7e3ff941e649eebbba4ff.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 7",
+            "screenshot": "screenshots\/home-video-producer-7.jpg",
+            "source": "templates\/home-video-producer-7-20c48de4ca1f26e6af8bf4013c508d54.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Video Producer 8",
+            "screenshot": "screenshots\/home-video-producer-8.jpg",
+            "source": "templates\/home-video-producer-8-10da7750379017f1f9fe6a2479d8ddac.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1-3f4f9e8c8e46ab4eca96747ae3722040.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-5baee74c9afb0e4ffca364cdf40ef03c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team members 1",
+            "screenshot": "screenshots\/team-members-1.jpg",
+            "source": "templates\/team-members-1-7c3e3b6dba576c1b21655656bfb108ac.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team members 2",
+            "screenshot": "screenshots\/team-members-2.jpg",
+            "source": "templates\/team-members-2-db54f2ede7ba8b3f9cb71d52257aa67e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services 1",
+            "screenshot": "screenshots\/our-services-1.jpg",
+            "source": "templates\/our-services-1-cbf4fb6523be9247f86b7b8478665da8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our services 2",
+            "screenshot": "screenshots\/our-services-2.jpg",
+            "source": "templates\/our-services-2-226b5ecc67ce3a7c57e74ff02d3eaeb0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video List 1",
+            "screenshot": "screenshots\/video-list-1.jpg",
+            "source": "templates\/video-list-1-bebbff8a1c391966fdb90ed23415aa27.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video List 2",
+            "screenshot": "screenshots\/video-list-2.jpg",
+            "source": "templates\/video-list-2-3cc71705e431d8dd9345962942e2f3d8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video List 3",
+            "screenshot": "screenshots\/video-list-3.jpg",
+            "source": "templates\/video-list-3-6695ccd6190ffd52e0598ce592faa818.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video List 4",
+            "screenshot": "screenshots\/video-list-4.jpg",
+            "source": "templates\/video-list-4-f8e9d167bc0371bdd96c4dcdcc03f2dc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Video 1",
+            "screenshot": "screenshots\/single-video-1.jpg",
+            "source": "templates\/single-video-1-0ed2ff201d62d5a91512f4bb73492c02.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Video 2",
+            "screenshot": "screenshots\/single-video-2.jpg",
+            "source": "templates\/single-video-2-921f1d26ef346b21ec40cfab441a8073.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-6be3e07ffb2f5994c76152f0a307060b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}
